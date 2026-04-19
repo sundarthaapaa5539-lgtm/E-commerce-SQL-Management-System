@@ -13,10 +13,10 @@ This project involved designing and implementing a robust relational database fo
 - **Business Intelligence:** Created advanced queries to track **Monthly Revenue**, **Top-Selling Products**, and **Low-Stock Alerts**.
 - **Data Integrity:** Implemented foreign key constraints and data cleaning scripts.
 
-## 📊 Database Schema (./er.diagram.png)
+## 📊 Database Schema (./ER.Diagram.)
 Below is the visual representation of the database architecture:
 
-![Database Schema](./er._Diagram.png)
+![Database Schema](./er.diagram.png)
 
 ## 🧰 Tools Used
 * **Database Engine:** MySQL
